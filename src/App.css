@@ -1,0 +1,87 @@
+.head{
+ background-color: #e0e0eb;
+ margin: 0px;
+}
+
+.App {
+  overflow: hidden;
+   padding: 0px;
+   margin:0px;
+   height: 150% ;
+   width: 100%;
+   background-color: #e0e0eb;
+}
+
+.main-section{
+  align-self:center;
+  width: 70%;
+  height: 150%;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+  padding: 15px;
+}
+
+h1{ 
+margin-left: 20px;
+margin-right: 20px;
+padding: 5px;
+background-color:  #ff6666;
+text-align: center;
+color:white;
+border-radius: 15px;
+}
+
+select{
+  width: 18%;
+} 
+
+.em{
+  color:red;
+}
+
+#smt{
+  /* border-radius: 15px; */
+  padding: 10px;
+  width: 100px;
+  color:black;
+  border-width: 2px;
+  border-color:   #00cc00;
+  background-color: white;
+  font-weight: bolder;
+ }
+
+input[type=text] ,select {
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=number]  {
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-field{
+   width: 70%;
+   align-self: center;
+   padding: 15px;
+   margin:10px;
+ }
+
+.rad{
+  margin-left: 20px;
+  font-size: 16px;
+  align-self: center;
+}
+
+.lab{
+  text-decoration: none;
+  font-size: 15px;
+  color:#3385ff;
+  width: 25%;
+}
+
+.val{
+  width: 70%;
+  float: right;
+}
